@@ -1,5 +1,8 @@
+<h1 align="center">Comm-Bot-Vk</h1>
 
-<p align="center"><h1>Comm-Bot-Vk</h1></p>
+<p align="center">
+<a href="https://github.com/blackcatprog/folder_icons/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/tjackenpacken/taskbar-groups?style=for-the-badge" height="20"/></a> 
+</p>
 
 ## Инструкция для Windows
 
