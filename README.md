@@ -18,10 +18,10 @@
 
 1) Скачиваем архив с программой:
 
-![1](img/1.jpg width=120)
-![2](img/2.jpg)
-![3](img/3.jpg)
-![4](img/4.jpg)
+![<img src="img/1.jpg" width=120>](img/1.jpg)
+![<img src="img/2.jpg" width=120>](img/2.jpg)
+![<img src="img/3.jpg" width=120>](img/3.jpg)
+![<img src="img/4.jpg" width=120>](img/4.jpg)
 
 1) [Скачиваем Termux](https://play.google.com/store/apps/details?id=com.termux "Скачать Termux")
 
