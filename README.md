@@ -1,5 +1,4 @@
 <p align="center"><img src="img/7.png" width=120></p>
-
 <h1 align="center">Comm-Bot-Vk</h1>
 
 <p align="center">
