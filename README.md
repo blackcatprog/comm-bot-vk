@@ -8,7 +8,7 @@
 
 * [Инструкция для Windows](#win-instruct)
 * [Инструкция для Android](#andro-instruct)
-* [Инструкция для Soucre(исходного кода)](#source-instruct)
+* [Инструкция для Soucre (исходного кода)](#source-instruct)
 	* [Windows](#source-win-instruct)
 	* [Android](#source-andro-instruct)
 
