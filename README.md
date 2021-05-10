@@ -26,4 +26,4 @@ cd shared
 cd Android
 ```
 
-5) [Получаем токен](https://vkhost.github.io "Получить токен")  Выберите Vk Admin и скопируйте часть адресной строки от access_token= до &expires_in
+5) [Получаем токен](https://vkhost.github.io "Получить токен")<br>Выберите Vk Admin и скопируйте часть адресной строки от access_token= до &expires_in
