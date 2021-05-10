@@ -17,7 +17,8 @@
 2) Обновляем все доступные пакеты:
 
 ```
-pkg update && pkg upgrade
+pkg update
+pkg upgrade
 ```
 
 3) Устанавливаем python:
@@ -30,6 +31,14 @@ pkg install python
 
 ```
 termux-setup-storage
+```
+
+4) Переходим в место, куда вы распаковали архив с программой:
+
+```
+cd storage
+cd shared
+cd Android (если вы распаковали в корневую папку)
 ```
 
 5) [Получаем токен](https://vkhost.github.io "Получить токен")<br>Выберите Vk Admin и скопируйте часть адресной строки от access_token= до &expires_in
