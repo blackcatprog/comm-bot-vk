@@ -18,10 +18,10 @@
 
 1) Скачиваем архив с программой:
 
-![1](blob/main/img/1.jpg)
-![2](img/2.png)
-![3](img/3.png)
-![4](img/4.png)
+![1](img/1.jpg)
+![2](img/2.jpg)
+![3](img/3.jpg)
+![4](img/4.jpg)
 
 1) [Скачиваем Termux](https://play.google.com/store/apps/details?id=com.termux "Скачать Termux")
 
