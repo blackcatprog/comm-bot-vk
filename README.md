@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 ###  Для Android
 
-1) Повторяем с 1 по 9 пункты [этой инструкции](##инструкция-для-android)
+1) Повторяем с 1 по 9 пункты [этой инструкции](https://github.com/blackcatprog/comm-bot-vk/blob/main/README.md##%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-android)
 
 2) Вписываем всё необходимое в cfg.ini (Инструкции по получению токена и id поста и пользователя выше, они одинаковые для Android и Windows)
 
