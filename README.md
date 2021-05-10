@@ -4,7 +4,15 @@
 <a href="https://github.com/blackcatprog/folder_icons/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/tjackenpacken/taskbar-groups?style=for-the-badge" height="20"/></a> 
 </p>
 
-## Инструкция для Windows
+## Документация
+
+* [Инструкция для Windows](#win-instruct)
+* [Инструкция для Android](#andro-instruct)
+* [Инструкция для Soucre(исходного кода)](#source-instruct)
+	* [Windows](#source-win-instruct)
+	* [Android](#source-andro-instruct)
+
+## Инструкция для Windows <a name="win-instruct"></a>
 
 1) Скачиваем архив с программой:
 
@@ -14,7 +22,7 @@
 
 4) Вводим необходимые данные (Инструкции по получению токена и id поста и пользователя ниже, они одинаковые для Android и Windows) и ожидаем окончания накрутки
 
-## Инструкция для Android
+## Инструкция для Android <a name="andro-instruct"></a>
 
 1) Скачиваем архив с программой:
 
@@ -70,9 +78,9 @@ python comm-bot-vk.py
 
 11) Вводим все необходимые данные и ждём окончания накрутки.
 
-## Запуск из Source
+## Запуск из Source <a name="source-instruct"></a>
 
-### Для Windows
+### Для Windows <a name="source-win-instruct"></a>
 
 1) Скачиваем архив с программой (скриншоты выше)
 
@@ -99,7 +107,7 @@ pip install -r requirements.txt
 
 9) В консоли вводим python comm-bot-vk.py, выбираем сколько нужно комментариев и ожидаем окончания накрутки
 
-###  Для Android
+###  Для Android <a name="source-andro-instruct"></a>
 
 1) Повторяем с 1 по 9 пункты [этой инструкции](https://github.com/blackcatprog/comm-bot-vk/blob/main/README.md##%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-android)
 
