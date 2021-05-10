@@ -18,7 +18,7 @@
 
 1) Скачиваем архив с программой:
 
-![<img src="img/1.png" width=60 height=60>](img/1.png)
+![1](img/1.png)
 ![2](img/2.png)
 ![3](img/3.png)
 ![4](img/4.png)
