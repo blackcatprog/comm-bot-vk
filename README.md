@@ -2,7 +2,8 @@
 <h1 align="center">Comm-Bot-Vk</h1>
 
 <p align="center">
-<a href="https://github.com/blackcatprog/comm-bot-vk/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-MIT-green" height="20"></a>
+<a href="https://github.com/blackcatprog/comm-bot-vk/releases"><img src="https://img.shields.io/github/v/release/blackcatprog/comm-bot-vk?color=blueviolet"></a>
+<a href="https://github.com/blackcatprog/comm-bot-vk/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" height="20"></a>
 <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20Android%20%7C%20Linux-blue" height="20">
 </p>
 
