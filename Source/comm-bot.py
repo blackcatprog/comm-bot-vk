@@ -1,5 +1,4 @@
 import vk_api
-from vk_api.longpoll import VkLongPoll, VkEventType
 import configparser
 import time
 from colorama import Fore
@@ -25,11 +24,10 @@ def func():
 		num = int(i1)
 		num1 = 0
 
-
 		while num1 < num:
 			session.method("wall.createComment", {
 				"owner_id": user,
-				"pot_id": post,
+				"post_id": post,
 				"message": text,
 				})
 			time.sleep(times)
@@ -41,8 +39,12 @@ def func():
 				break
 	except vk_api.exceptions.ApiError as error:
 		error = str(error)
-		if error[0:5] == "[100]":
+		if error[1:4] == "100":
 			print(Fore.RED + "Пост отсутствует")
+		elif error[1:2] == "5":
+			print(Fore.RED + "Ошибка авторизации")
+	except configparser.ParsingError:
+		print(Fore.RED + "Ошибка чтения конфига")
 	except KeyboardInterrupt:
 		print(Fore.RED + "\nВыполнен выход")
 
