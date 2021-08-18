@@ -1,5 +1,5 @@
 <p align="center"><img src="img/7.png" width=120></p>
-<h1 align="center">Comm-Bot-Vk</h1>
+<h1 align="center">Comm-Bot-Vk (Разработка завершена)</h1>
 
 <p align="center">
 <a href="https://github.com/blackcatprog/comm-bot-vk/releases"><img src="https://img.shields.io/github/v/release/blackcatprog/comm-bot-vk?color=important"></a>
